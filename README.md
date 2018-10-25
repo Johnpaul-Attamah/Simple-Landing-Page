@@ -1,2 +1,2 @@
 # Simple-Landing-Page
-Another freecodecamp Project
+A product landing page to work with
